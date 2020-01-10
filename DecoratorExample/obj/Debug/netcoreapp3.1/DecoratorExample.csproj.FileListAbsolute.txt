@@ -1,0 +1,11 @@
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.csprojAssemblyReference.cache
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.AssemblyInfoInputs.cache
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.AssemblyInfo.cs
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.exe
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.deps.json
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.runtimeconfig.json
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.runtimeconfig.dev.json
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.dll
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\bin\Debug\netcoreapp3.1\DecoratorExample.pdb
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.dll
+C:\Users\doug.wehmeyer\source\repos\DecoratorExample\DecoratorExample\obj\Debug\netcoreapp3.1\DecoratorExample.pdb
